@@ -1,6 +1,6 @@
 import random
 import string 
-def generate_user_agent2():
+def generate_user_agentx():
 
     davik_version = "Davik/2.1.0"
 
